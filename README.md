@@ -128,12 +128,9 @@ superstore-sales-dashboard/
 
 ## 📫 Let's Connect
 
-<p align="center">
-  <b>Adarsh Kumar</b><br><br>
-
-  📧 <a href="mailto:adarsh.kumar.job@gmail.com">adarsh.kumar.job@gmail.com</a><br>
-  💼 <a href="https://www.linkedin.com/in/adarshkumar2005/">LinkedIn Profile</a>
-</p>
+**Adarsh Kumar**  
+📧 adarsh.kumar.job@gmail.com  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/adarshkumar2005/)
 
 ⭐ Feel free to connect with me for opportunities, collaborations, or feedback.
 

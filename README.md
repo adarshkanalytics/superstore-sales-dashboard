@@ -34,17 +34,19 @@ This project delivers a single, interactive source of truth: a 7-page Power BI r
 
 ## 🗂️ Dashboard Pages
 
-| # | Page | What It Answers |
-|---|---|---|
-| 1 | **Executive Overview** | "How is the business doing overall, right now?" |
-| 2 | **Sales Analysis** | "Where is revenue coming from, and through which channels?" |
-| 3 | **Profit Analysis** | "Where are we actually making money — and where are we bleeding it?" |
-| 4 | **Customer Analysis** | "Who are our most valuable customers, and how is our base evolving?" |
-| 5 | **Product Analysis** | "Which products should we double down on, and which should we cut?" |
-| 6 | **Regional Analysis** | "Which regions and states deserve more investment?" |
-| 7 | **Insights** | "What are the 5 things leadership needs to know today?" |
+This report consists of **7 interconnected dashboard pages**, each built to answer a key business question through interactive visualizations and KPIs.
 
-*(Screenshots of each page: [`/screenshots`](screenshots))*
+| # | Dashboard | Primary Business Objective |
+|---|-----------|----------------------------|
+| 1 | 📊 Executive Overview | Monitor overall business performance through executive-level KPIs. |
+| 2 | 💰 Sales Analysis | Analyze sales trends across products, categories, and customer segments. |
+| 3 | 📈 Profit Analysis | Evaluate profitability and identify high- and low-performing areas. |
+| 4 | 👥 Customer Analysis | Understand customer behavior, value, and purchasing trends. |
+| 5 | 📦 Product Analysis | Measure product performance and identify growth opportunities. |
+| 6 | 🌍 Regional Analysis | Compare sales and profit performance across regions and states. |
+| 7 | 💡 Business Insights | Summarize key findings and provide actionable business recommendations. |
+
+> 📷 **Dashboard Screenshots:** Browse all report pages in the [`screenshots/`](screenshots) directory.
 
 ---
 
